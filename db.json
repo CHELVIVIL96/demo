@@ -1,21 +1,10 @@
 {
   "contacts": [
-    { "index": 0, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-    { "index": 1, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 2, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 3, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 4, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 5, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 6, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 7, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 8, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 9, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 10, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 11, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 12, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 13, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"},
-   { "index": 14, "name": "Keylor Elizondo","email":"keylor139@gmail.com","about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...","phoneNumber":"87181999"}
-  
+    { "index": 0,
+     "name": "Keylor Elizondo",
+     "email":"keylor139@gmail.com",
+     "about":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+     "phoneNumber":"87181999"},
   ],
   "profile": {
     "name": "CHELVIVIL96"
