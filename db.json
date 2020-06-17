@@ -1,15 +1,5 @@
 "services":[
-    { 
-     "id":1,
-     "title":"Recarga",
-     "body":"Recarga Movistar pre-pago"
-     },
-     { 
-     "id":2,
-     "title":"Electricidad",
-     "body":"Movistar pago de facturas"
-     }
-  
+    { "id": 1, "title ": "Recarga", "body": "Recarga Movistar pre-pago" }, 
 ]
 
 
